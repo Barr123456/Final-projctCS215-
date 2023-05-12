@@ -1,2 +1,2 @@
 # Final-projctCS215-
-this my final project in Which I work or different csv data.
+this is my final project in Which I work or different csv data.
